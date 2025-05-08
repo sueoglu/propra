@@ -1,0 +1,16 @@
+Statistic for protein validation
+
+Number of Proteins:	206
+Mean Protein Length:	522.0
+Sum of Protein Length:	107489
+Sum of Predicted Positions:	107823
+
+q3 :	 Mean:	55.0	Dev	:9.9
+q0bs_H:	 Mean:	53.8	Dev	:21.2
+q0bs_E:	 Mean:	48.4	Dev	:21.6
+q0bs_C:	 Mean:	53.3	Dev	:13.0
+
+SOV :	 Mean:	46.0	Dev	:14.8
+SOV_H :	 Mean:	47.4	Dev	:16.6
+SOV_E :	 Mean:	53.1	Dev	:17.1
+SOV_C :	 Mean:	41.8	Dev	:16.0
